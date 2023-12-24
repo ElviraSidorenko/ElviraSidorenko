@@ -27,7 +27,6 @@ I believe in the importance of continuous learning and growth. Currently, I'm fo
 ## 💬 Get in Touch
 I'm always open to collaboration, feedback, and connecting with fellow developers. Don't hesitate to reach out to me through:
 
-- 📧 Email: elvira636583@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/elvira-sidorenko
 
 ## Let's code, learn, and grow together! 🚀
